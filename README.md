@@ -1,11 +1,14 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on a K8s-Blue-Green deployment project
+- 🤔 I’m looking an internship in either DevOps or Cloud
+- 📫 How to reach me: syedrazvi.dev@gmail.com
+- 🌱 I’m Currently taking a course to become a Certified Kubernetes Administrator
 <!--
 **Sunloid/Sunloid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Blue-Green deployment 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
