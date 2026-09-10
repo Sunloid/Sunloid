@@ -46,21 +46,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | What it does |
-|---|---|
-| **[CICD-AWS-ECR-ECS](https://github.com/Sunloid/CICD-AWS-ECR-ECS)** | Fully automated CI/CD pipeline — Jenkins orchestrates the build, Maven/Nexus/SonarQube handle CI, and Docker + AWS ECS/ECR handle deployment with zero manual steps. |
-| **[Kubernetes Blue-Green Deployment](https://github.com/Sunloid/K8s-Blue-Green-Deployment)** | Zero-downtime deployment strategy on Minikube — two live environments, traffic switched only after the new version is verified, with instant rollback if something breaks. |
-| **[CICD-Node-docker-k8s](https://github.com/Sunloid/CICD-Node-docker-k8s)** | End-to-end pipeline for a Node.js app using Jenkins, Docker, Kubernetes, and GitHub webhooks for fully automated deploys. |
-| **[IAC-Terraform-CICD](https://github.com/Sunloid/IAC-Terraform-CICD)** | Terraform-provisioned AWS infrastructure (EC2 + config) that stands up an entire Jenkins/SonarQube/Nexus CI/CD stack from code. |
-| **[DockerCompose-K8S-Techdome](https://github.com/Sunloid/DockerCompose-K8S-Techdome)** | Full-stack app (frontend + backend + DB) containerized with Docker and orchestrated with Kubernetes for local deployment. |
-
-> 📌 Pin these five on your profile (Customize your pins → select these repos) so they're the first thing recruiters see.
-
----
 
 ### 📊 GitHub Stats
 
