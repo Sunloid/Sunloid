@@ -4,17 +4,16 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/haider-rizavi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:syedrazvi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01509716fd709e03b3"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/sellers/sunloid"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering, Deccan College of Engineering and Technology (2022 – 2026)
 - ☁️ Focused on **AWS (EC2, ECS, ECR)**, containerization, and building end-to-end CI/CD pipelines
 - 🧠 Certified in **AWS DevOps**, **MERN Full Stack Development**, and **Data Science / ML** (Full Stack Academy)
-- 🔭 Currently building Kubernetes-based deployment patterns (Blue/Green, multi-container apps)
-- 🌱 Learning: Infrastructure as Code at scale (Terraform), advanced Kubernetes networking
 - 💬 Ask me about: Jenkins pipelines, Docker, ECS/ECR deployments, or Linux troubleshooting
 - 📫 Reach me at **syedrazvi.dev@gmail.com**
 
@@ -46,9 +45,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunloid&hide_border=true"/>
-</p>
 
 ---
 
